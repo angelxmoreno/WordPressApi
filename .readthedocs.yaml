@@ -24,6 +24,7 @@ sphinx:
 #    - pdf
 
 # Optionally declare the Python requirements required to build your docs
+# run `python3 -m pip freeze > requirements.txt` in your docs dir @see https://pip.pypa.io/en/latest/user_guide/#requirements-files
 python:
   install:
     - requirements: docs/requirements.txt
