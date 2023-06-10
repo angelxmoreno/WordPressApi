@@ -1,24 +1,4 @@
-# WordPressApi - currently under development
+# WordPressApi is now WPRestClient
 
-A simple interface for accessing data sites via the WordPress Rest API
-
-## Why make this?
-I scoured the earth looking for a simple way to access WordPress data via the WordPress Rest API. I was not happy with
-the results. Some libraries were either out of data or abandoned. Most were not extendable. It was not possible to make 
-use of custom post types nor custom authentication. Furthermore, I wanted something a far more OOP.
-
-So here we are. 
-
-## Docs
-Visit https://wordpressapi.readthedocs.io/en/latest/
-
-## Requirements
-PHP 7.4+
-
-## Support
-For bugs and feature requests, please use the [issues](https://github.com/angelxmoreno/WordPressApi/issues) section of 
-this repository.
-
-# License
-Licensed under the MIT License. Redistributions of the source code included in this repository must retain the 
-copyright notice found in each file.
+Visit the repo: https://github.com/angelxmoreno/WPRestClient
+Visit the docs: https://wprestclient.readthedocs.io/en/latest/
